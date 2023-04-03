@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1% 10% 30% 10%;
+  text-align: center;
+  background-color: rgba(169, 169, 177, 0.145);
+  border-radius: 5%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+h1 {
+  color: rgba(39, 59, 145, 0.547);
+}
+
+button {
+  color:rgba(39, 58, 145, 0.784);
+}
